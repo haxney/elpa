@@ -4,5 +4,8 @@
             nil "open anything / QuickSilver-like candidate-selection framework" single])
  (anything-config .
                   [(2010 2 4)
-                   nil "Predefined configurations for `anything.el'" single]))
+                   nil "Predefined configurations for `anything.el'" single])
+ (bm .
+     [(1 37)
+      nil "Visible bookmarks in buffer." single]))
 
