@@ -7,5 +7,8 @@
                    nil "Predefined configurations for `anything.el'" single])
  (bm .
      [(1 37)
-      nil "Visible bookmarks in buffer." single]))
+      nil "Visible bookmarks in buffer." single])
+ (package .
+          [(0 9 1)
+           nil nil tar]))
 
