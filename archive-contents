@@ -1,0 +1,5 @@
+(1
+ (anything .
+           [(1 241)
+            nil "open anything / QuickSilver-like candidate-selection framework" single]))
+
