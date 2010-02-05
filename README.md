@@ -1,8 +1,8 @@
 My own ELPA archive.
 
-Requires technomancy's upgraded [package.el](http://github.com/technomancy/package.el).
+Requires haxney's upgraded [package.el](http://github.com/haxney/package.el).
 
 To add this archive to your source list, run
 
     (add-to-list 'package-archives
-                 '("haxney" . "http://github.com/dhax/elpa/raw/master/") t)
+                 '("haxney" . "http://github.com/haxney/elpa/raw/master/") t)
