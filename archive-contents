@@ -1,5 +1,8 @@
 (1
  (anything .
            [(1 241)
-            nil "open anything / QuickSilver-like candidate-selection framework" single]))
+            nil "open anything / QuickSilver-like candidate-selection framework" single])
+ (anything-config .
+                  [(2010 2 4)
+                   nil "Predefined configurations for `anything.el'" single]))
 
