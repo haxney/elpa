@@ -30,5 +30,8 @@
                 nil "Auto install elisp file" single])
  (undo-tree .
             [(0 1 6)
-             nil "Treat undo history as a tree" single]))
+             nil "Treat undo history as a tree" single])
+ (linkd .
+        [(0 9)
+         nil "Make hypertext with active links in any buffer" tar]))
 
