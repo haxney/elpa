@@ -6,8 +6,10 @@
                   [(2010 2 6)
                    nil "Predefined configurations for `anything.el'" single])
  (anything-contrib .
-                   [(2010 2 7 2)
-                    ((auto-install
+                   [(2010 2 7 3)
+                    ((anything
+                      (1 241))
+                     (auto-install
                       (1 24))
                      (emms
                       (3 0))
