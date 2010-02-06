@@ -13,5 +13,8 @@
       nil "Visible bookmarks in buffer." single])
  (package .
           [(0 9 1)
-           nil nil tar]))
+           nil nil tar])
+ (traverselisp .
+               [(1 1 54)
+                nil "walk through directories and perform actions on files." tar]))
 
