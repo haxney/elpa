@@ -6,8 +6,14 @@
                   [(2010 2 6)
                    nil "Predefined configurations for `anything.el'" single])
  (anything-contrib .
-                   [(2010 2 6)
-                    nil nil tar])
+                   [(2010 2 7)
+                    ((auto-install
+                      (1 24))
+                     (emms
+                      (3 0))
+                     (slime
+                      (20091016)))
+                    "Contributed Emacs Anything files" tar])
  (bm .
      [(1 37 1)
       nil "Visible bookmarks in buffer." single])
