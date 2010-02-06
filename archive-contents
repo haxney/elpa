@@ -22,5 +22,8 @@
            nil nil tar])
  (traverselisp .
                [(1 1 54)
-                nil "walk through directories and perform actions on files." tar]))
+                nil "walk through directories and perform actions on files." tar])
+ (auto-install .
+               [(1 24)
+                nil "Auto install elisp file" single]))
 
