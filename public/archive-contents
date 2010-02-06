@@ -33,5 +33,8 @@
              nil "Treat undo history as a tree" single])
  (linkd .
         [(0 9 1)
-         nil "Make hypertext with active links in any buffer" tar]))
+         nil "Make hypertext with active links in any buffer" tar])
+ (unbound .
+          [(0 1 1)
+           nil "Find convenient unbound keystrokes" single]))
 
