@@ -27,5 +27,8 @@
                 nil "walk through directories and perform actions on files." tar])
  (auto-install .
                [(1 24)
-                nil "Auto install elisp file" single]))
+                nil "Auto install elisp file" single])
+ (undo-tree .
+            [(0 1 6)
+             nil "Treat undo history as a tree" single]))
 

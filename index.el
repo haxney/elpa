@@ -5,4 +5,5 @@
  ("package" "git://github.com/haxney/package.git")
  ("traverselisp" "git://github.com/haxney/traverselisp.git")
  ("auto-install" "git://github.com/haxney/auto-install.git")
+ ("undo-tree" "git://github.com/haxney/undo-tree.git")
  )
