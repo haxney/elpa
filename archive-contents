@@ -5,6 +5,9 @@
  (anything-config .
                   [(2010 2 6)
                    nil "Predefined configurations for `anything.el'" single])
+ (anything-contrib .
+                   [(2010 2 6)
+                    nil nil tar])
  (bm .
      [(1 37 1)
       nil "Visible bookmarks in buffer." single])
