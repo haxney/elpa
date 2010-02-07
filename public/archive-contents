@@ -48,5 +48,8 @@
          nil "mysql front-end" single])
  (smex .
        [(0 1)
-        nil "A smart M-x enhancement for Emacs." single]))
+        nil "A smart M-x enhancement for Emacs." single])
+ (notify .
+         [(0 1)
+          nil "notification frontend" single]))
 

@@ -12,4 +12,5 @@
  ("quack" "git://github.com/haxney/quack.git")
  ("mysql" "git://github.com/haxney/mysql.git")
  ("smex" "git://github.com/haxney/smex.git")
+ ("notify" "git://github.com/haxney/notify.git")
  )
