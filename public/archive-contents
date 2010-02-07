@@ -39,5 +39,8 @@
            nil "Find convenient unbound keystrokes" single])
  (graphviz-dot-mode .
                     [(0 3 4)
-                     nil "Mode for the dot-language used by graphviz (att)." single]))
+                     nil "Mode for the dot-language used by graphviz (att)." single])
+ (quack .
+        [(0 37 1)
+         nil "enhanced support for editing and running Scheme code" single]))
 
