@@ -42,5 +42,8 @@
                      nil "Mode for the dot-language used by graphviz (att)." single])
  (quack .
         [(0 37 1)
-         nil "enhanced support for editing and running Scheme code" single]))
+         nil "enhanced support for editing and running Scheme code" single])
+ (mysql .
+        [(1 1 1)
+         nil "mysql front-end" single]))
 
