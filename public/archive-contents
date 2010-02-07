@@ -36,5 +36,8 @@
          nil "Make hypertext with active links in any buffer" tar])
  (unbound .
           [(0 1 1)
-           nil "Find convenient unbound keystrokes" single]))
+           nil "Find convenient unbound keystrokes" single])
+ (graphviz-dot-mode .
+                    [(0 3 4)
+                     nil "Mode for the dot-language used by graphviz (att)." single]))
 

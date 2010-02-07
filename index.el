@@ -8,4 +8,5 @@
  ("undo-tree" "git://github.com/haxney/undo-tree.git")
  ("linkd" "git://github.com/haxney/linkd.git")
  ("unbound" "git://github.com/haxney/unbound.git")
+ ("graphviz-dot-mode" "git://github.com/haxney/graphviz-dot-mode.git")
  )
