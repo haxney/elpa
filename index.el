@@ -11,4 +11,5 @@
  ("graphviz-dot-mode" "git://github.com/haxney/graphviz-dot-mode.git")
  ("quack" "git://github.com/haxney/quack.git")
  ("mysql" "git://github.com/haxney/mysql.git")
+ ("smex" "git://github.com/haxney/smex.git")
  )

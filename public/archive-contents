@@ -45,5 +45,8 @@
          nil "enhanced support for editing and running Scheme code" single])
  (mysql .
         [(1 1 1)
-         nil "mysql front-end" single]))
+         nil "mysql front-end" single])
+ (smex .
+       [(0 1)
+        nil "A smart M-x enhancement for Emacs." single]))
 
