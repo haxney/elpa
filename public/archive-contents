@@ -1,9 +1,9 @@
 (1
  (anything .
-           [(1 241 1)
+           [(1 241 2)
             nil "open anything / QuickSilver-like candidate-selection framework" single])
  (anything-config .
-                  [(2010 2 6)
+                  [(2010 2 24)
                    nil "Predefined configurations for `anything.el'" single])
  (anything-contrib .
                    [(2010 2 7 3)
@@ -20,7 +20,7 @@
      [(1 37 1)
       nil "Visible bookmarks in buffer." single])
  (package .
-          [(0 9 3)
+          [(0 9 4)
            nil nil tar])
  (traverselisp .
                [(1 1 54)
